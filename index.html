@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Main Page</title>
+        <meta name="viewport" content="width=device-width, initial scale=1"
+        
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>
+                  <font size="2"><font color="ffffff"><b><i>site version 1.1</i></b></font></font>
+                   <font size="2"><font color="ffffff"><b><i>last updated 4/16/2022</i></b></font></font>
+                </th>
+            </tr>
+        </table> 
+
+        <center><body>
+            <table>
+                <tr>
+                    <th>
+                        <a href="index.html">
+                            <button>Main Page</button>
+                        </a>
+                        <a href="changelogs.html">
+                            <button>Logs</button>
+                        </a>
+                        <a href="otherinfo.html">
+                            <button>About Me</button>
+                        </a>
+                        <a href="code.txt">
+                            <button>RawCode</button>
+                        </a>
+                    </th>
+                </tr>
+            </table>
+
+        <body background="https://th.bing.com/th/id/R.ec137f7e1b0c0c5524b48fe144cbaf66?rik=11C%2bRTEqIAv%2btg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f3jQbonO.jpg&ehk=MALaOn2QmiwS5ArQaTp%2fWHOdPN77ArQ0VPQY9egQ%2bE4%3d&risl=&pid=ImgRaw&r=0"></body>
+        <font size ="4"><font color="ffffff"><h1>Main Page</h1></font></font>
+        <h1><font color="ffffff">Zakitys Social Media!</h1></font> 
+        <font size ="4"><font color="ffffff"><p class="p-welcome">Get Zakitys Social Media links down below</font></font>
+        <font color="ffffff">
+            <hr>
+            <font size ="3"><font color="White"><p>Youtube: <a href="https://www.youtube.com/channel/UCjyjjxZIFUwp1oq5W_7-ftw" target="_blank">Zakity Commentary</a><br><br>
+        Twitter: <a href="https://twitter.com/ZakityVR" target="_blank">@ZakityVR</a><br><br>
+        Twitch: <a href="https://www.twitch.tv/zakity_" target="_blank">zakity_</a><br><br>
+        Instagram:<a href="https://www.instagram.com/zakityy/" target="_blank">@zakityy</a><br><br>
+        Tiktok: <a href="https://www.tiktok.com/@zakity_commentary" target="_blank">@zakity_commentary</a><br><br>
+        Snapchat: <a href="https://www.snapchat.com/add/notzakity?share_id=qXu_TDx7jLk&locale=en-US" target="_blank">notzakity</a><br><br>
+        Reddit: <a href="https://www.reddit.com/user/zakity-/" target="_blank">u/zakity-</a><br><br>
+        My Friends Discord: <a href="https://discord.gg/Psz4bp2tZZ" target="_blank">Psz4bp2tZZ</a></font></font>
+             
+        <br><br><br><br><br><br><br><br><br><br><br><marquee behavior="scroll" direction="right">this website was made in visual studio code</marquee>
+    </body>
+</html>
