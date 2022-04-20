@@ -12,3 +12,8 @@ body {
     cursor: pointer;
 }
 
+.stuff {
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: auto;
+}

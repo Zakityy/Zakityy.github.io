@@ -63,6 +63,7 @@ changelogs.html
     <head>
         <meta charset="utf-8">
         <title>Change Logs</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <table>
@@ -78,13 +79,13 @@ changelogs.html
             <table>
                 <tr>
                     <th>
-                        <a href="index.html">
+                        <a href="index">
                             <button>Main Page</button>
                         </a>
-                        <a href="changelogs.html">
+                        <a href="logs">
                             <button>Logs</button>
                         </a>
-                        <a href="otherinfo.html">
+                        <a href="info">
                             <button>About Me</button>
                         </a>
                         <a href="code.txt">
@@ -107,13 +108,27 @@ changelogs.html
                 added a raw codes page for anyone who can read html to be able
                 to see the code behind this website. Made Text Bigger so easier
                 to read on phone, added Major Updates, added a scrolling text saying what website
-                was made on
-                <br><br><i><b>log last changed: 4/16/2022</b></i></font>
+                was made on, <br>made tabs into clickable buttons. Hid extension names to give it a cleaner
+                appearence
+                <br><br><i><b>log last changed: 4/19/2022</b></i></font>
+                
+                <hr>
+                <h2><b>
+                    <i>
+                        Major Updates
+                    </i>
+                </b></h2>
+                
+                <p>
+                    Changed the look to center
+                </p>
+                <br><br><i><b>major updates last updated: 4/11/2022</b></i>
             </p></font>
         </p>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><marquee behavior="scroll" direction="right">this website was made in visual studio code</marquee>
+        <br><br><br><br><br><br><br><br><br><br><br><marquee behavior="scroll" direction="right">this website was made in visual studio code</marquee>
     </body>
 </html>
+
 
 otherinfo.html
 -----------------
